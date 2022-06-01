@@ -1,0 +1,4 @@
+C:/Users/91846/Dropbox/DataScience/Training/MachineLearningTutorial/Deeplearning/kitti_to_coco/images/train/000000.png
+C:/Users/91846/Dropbox/DataScience/Training/MachineLearningTutorial/Deeplearning/kitti_to_coco/images/train/000008.png
+C:/Users/91846/Dropbox/DataScience/Training/MachineLearningTutorial/Deeplearning/kitti_to_coco/images/train/000016.png
+C:/Users/91846/Dropbox/DataScience/Training/MachineLearningTutorial/Deeplearning/kitti_to_coco/images/train/000024.png

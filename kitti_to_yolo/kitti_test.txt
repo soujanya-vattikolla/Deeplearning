@@ -1,0 +1,1 @@
+C:/Users/91846/Dropbox/DataScience/Training/MachineLearningTutorial/Deeplearning/kitti_to_coco/images/train/000032.png
